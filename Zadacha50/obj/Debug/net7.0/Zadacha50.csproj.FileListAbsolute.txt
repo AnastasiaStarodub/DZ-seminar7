@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ7\Zadacha50\obj\Debug\net7.0\Zadacha50.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ7\Zadacha50\obj\Debug\net7.0\Zadacha50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ7\Zadacha50\obj\Debug\net7.0\Zadacha50.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ7\Zadacha50\obj\Debug\net7.0\Zadacha50.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ7\Zadacha50\obj\Debug\net7.0\Zadacha50.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ7\Zadacha50\bin\Debug\net7.0\Zadacha50.exe
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ7\Zadacha50\bin\Debug\net7.0\Zadacha50.deps.json
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ7\Zadacha50\bin\Debug\net7.0\Zadacha50.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ7\Zadacha50\bin\Debug\net7.0\Zadacha50.dll
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ7\Zadacha50\bin\Debug\net7.0\Zadacha50.pdb
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ7\Zadacha50\obj\Debug\net7.0\Zadacha50.dll
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ7\Zadacha50\obj\Debug\net7.0\refint\Zadacha50.dll
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ7\Zadacha50\obj\Debug\net7.0\Zadacha50.pdb
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ7\Zadacha50\obj\Debug\net7.0\Zadacha50.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ7\Zadacha50\obj\Debug\net7.0\ref\Zadacha50.dll
